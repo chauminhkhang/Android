@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray1">
+        <item >Sách</item>
+        <item >Vở</item>
+        <item >Bút</item>
+        <item >Cặp</item>
+        <item >Balo</item>
+        <item >Giày</item>
+    </string-array>
+    
+</resources>
